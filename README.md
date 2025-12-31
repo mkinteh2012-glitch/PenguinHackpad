@@ -1,5 +1,5 @@
 # PenguinHackpad
-This was built by Muhammad Kinteh/ @penguinmo for hackclub
+This was built by @penguinmo for hackclub
 I built this because it seems really cools and it's a project i've never done before
 # Images
 <img width="334" height="367" alt="image" src="https://github.com/user-attachments/assets/c1232689-5656-4093-b30d-44cc8cffbe8d" />
