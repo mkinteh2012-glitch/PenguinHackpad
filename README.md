@@ -7,5 +7,9 @@ I built this because it seems really cools and it's a project i've never done be
 <img width="565" height="424" alt="image" src="https://github.com/user-attachments/assets/d1d31284-7f8d-4ab2-89da-e56f4937589a" />
 <img width="342" height="244" alt="image" src="https://github.com/user-attachments/assets/d78c5169-6ef4-491d-8f04-853cf46836ae" />
 <img width="435" height="306" alt="image" src="https://github.com/user-attachments/assets/7ce11336-8ec6-4c06-922a-5f1b3a659ce6" />
+<img width="583" height="310" alt="image" src="https://github.com/user-attachments/assets/cf844a96-cb4d-43d3-a32b-c334c6a66618" />
+<img width="381" height="291" alt="image" src="https://github.com/user-attachments/assets/cefc121a-3ec2-42ff-bd28-eb10d9b4a5b7" />
+
+
 
 
